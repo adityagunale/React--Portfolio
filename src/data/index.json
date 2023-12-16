@@ -1,0 +1,79 @@
+{
+  "skills": [
+    {
+        "id": "1",
+        "src": "./img/feather-pen-1.png",
+        "title": "HTML",
+        "description": "As a Full Stack Sevloper, my proficiency in HTML allows me to carft well-structured and engaging digital experience"
+    },
+
+    {
+        "id": "2",
+        "src": "./img/feather-pen-2.png",
+        "title": "CSS",
+        "description": "My Experties in CSS empowers me to create visually stunning and intuitive interfaces, Transforming ideas into visually compelling digital realities."
+    },
+
+    {
+        "id": "3",
+        "src": "./img/feather-pen-1.png",
+        "title": "JAVASCRIPT",
+        "description": "With Proficiency in Javascript, I bring life to web applications, creating functionality that captivates and enriches the user experince."
+    },
+    {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "REACT JS",
+        "description": "My Experties in React empowers me to craft scalable, interactive, and visually appealing front-end solutions delevering seamless and captivating user experience. "
+    }
+],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/e-commerce.png",
+      "title": "E-Commerce",
+      "description": "E-Commerce Website Using React for fetching data from Server used strapi.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/food.png",
+      "title": "Food Restorant",
+      "description": "Food Restorant Website using html and css for functionlity used Javascript",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/tony.png",
+      "title": " Doctor Portfolio",
+      "description": "Doctor Portfolio Website using html and css for functionlity used Javascrip",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
