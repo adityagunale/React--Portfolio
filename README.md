@@ -1,6 +1,6 @@
 #Portfolio Web application using React js.
 
-#Live Site URL :- https://657e786d24919b2a22d89e79--sparkling-churros-64ea66.netlify.app/
+#Live Site URL :- https://adityagunaleportfolio.netlify.app/
 
 
 
